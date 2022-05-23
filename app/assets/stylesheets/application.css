@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+.header {
+  color: rgb(17, 17, 17)
+}
+
+.btn {
+  text-decoration: none;
+  border-radius: 5px;
+}
